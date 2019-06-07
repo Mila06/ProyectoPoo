@@ -25,6 +25,8 @@ Reglas de juego:
   
 Integrantes:
 
-  Gonzalo Huaquisto
-  Santiago Terán
-  Milagros Dimas
+  - Gonzalo Huaquisto
+  
+  - Santiago Terán
+  
+  - Milagros Dimas
