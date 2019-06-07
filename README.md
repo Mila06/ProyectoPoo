@@ -1,5 +1,6 @@
 # ProyectoPoo
 Senku - Programación Orientada a Objetos
+
 Requisitos:
 Instrucciones de uso:
 Reglas de juego: Al inicio del juego están todos los espacios ocupados, excepto por uno.
